@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/aygoun/API-DTB-AOC#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "firebase": "^9.8.2",
+    "firebase-admin": "^10.2.0"
   }
 }
